@@ -20,3 +20,5 @@ Relay Module: If controlling high-voltage lights
 Breadboard and Jumper Wires: For connections
 Wi-Fi Module:,Arduino Microcontroller will control the LED and communicate with the mobile app using the Wi-Fi module (ESP8266/ESP32).
 The Mobile App will send commands over Wi-Fi to the Arduino, where the Arduino will control the LED based on those commands.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/654a7278-5827-4009-87fa-630536d2c69b)
